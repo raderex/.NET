@@ -1,0 +1,159 @@
+ 1.
+
+	Language Preliminaries
+	Program to implement if, else if and else 
+
+	 
+
+	 
+2.
+
+ 	   Language Preliminaries
+	Program to implement while loop
+
+	
+	 
+3.
+
+ 	Language Preliminaries
+	Program to implement do…while 
+
+	
+	 
+4.
+
+ 	Language Preliminaries
+	Program to implement for loop
+	
+	 
+5.
+
+ 	Language Preliminaries
+	Program to implement for each
+	
+	 
+6.
+
+ 	Language Preliminaries
+	Program to implement Method Overloading
+
+	
+	 
+7.
+
+ 	Language Preliminaries
+
+	Program to implement Method Overriding
+
+	
+	 
+
+
+
+
+
+
+
+
+SNO	Unit Name	Title	Practical Date and Sign	Submission Date and Sign
+ 8.
+
+	Language Preliminaries
+	Program to implement Inheritance
+
+	 
+
+	 
+9.
+
+ 	Language Preliminaries
+	Program to implement Abstract class
+
+	 
+	 
+10.
+
+ 	Language Preliminaries
+	Program to implement Sealed class
+
+	 
+
+	 
+11.
+
+ 	Language Preliminaries
+	Program to implement Static class
+	 
+
+	 
+12.
+
+ 	Language Preliminaries
+	Program to implement Partial class
+
+	
+	 
+13.
+
+ 	Creating ASP.NET Core MVC Applications	Program to demonstrate ASP .NET Core MVC project structure
+
+	
+	 
+14.
+
+ 	Creating ASP.NET Core MVC Applications 
+	Program to demonstrate Dependency Injection
+	 
+
+	 
+
+
+
+
+SNO	Unit Name	Title	Practical Date and Sign	Submission Date and Sign
+ 15.
+
+	Creating ASP.NET Core MVC Applications 
+
+
+	Program to demonstrate the different types of return types of Controller’s Action methos
+	
+	 
+16.
+
+ 	Creating ASP.NET Core MVC Applications 
+
+
+	Program to demonstrate the use of ViewData, ViewBag and TempData to pass data from Controller to View
+	
+	 
+17.
+
+ 	Creating ASP.NET Core MVC Applications 
+
+	Program to implement Model Data Annotation and throw a validation message if the input is invalid
+	 
+
+	 
+18.
+
+ 	Working with Database
+
+	 CRUD operation
+	 
+	 
+19.
+
+ 	State management of ASP.NET Core Application
+	Program to manage the session state
+		 
+20.
+
+ 	Client-side development in ASP.NET Core
+	Program to implement client side validation using Jquery
+		 
+ 21.
+
+	Securing In ASP.NET Core Application
+	Create a web application with authentication and authorization
+		 

@@ -1,0 +1,15 @@
+D:\.net\.net project\.NET\college practicals\Lab 2\Lab 2\bin\Debug\net8.0\Lab 2.exe
+D:\.net\.net project\.NET\college practicals\Lab 2\Lab 2\bin\Debug\net8.0\Lab 2.deps.json
+D:\.net\.net project\.NET\college practicals\Lab 2\Lab 2\bin\Debug\net8.0\Lab 2.runtimeconfig.json
+D:\.net\.net project\.NET\college practicals\Lab 2\Lab 2\bin\Debug\net8.0\Lab 2.dll
+D:\.net\.net project\.NET\college practicals\Lab 2\Lab 2\bin\Debug\net8.0\Lab 2.pdb
+D:\.net\.net project\.NET\college practicals\Lab 2\Lab 2\obj\Debug\net8.0\Lab 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\.net project\.NET\college practicals\Lab 2\Lab 2\obj\Debug\net8.0\Lab 2.AssemblyInfoInputs.cache
+D:\.net\.net project\.NET\college practicals\Lab 2\Lab 2\obj\Debug\net8.0\Lab 2.AssemblyInfo.cs
+D:\.net\.net project\.NET\college practicals\Lab 2\Lab 2\obj\Debug\net8.0\Lab 2.csproj.CoreCompileInputs.cache
+D:\.net\.net project\.NET\college practicals\Lab 2\Lab 2\obj\Debug\net8.0\Lab 2.sourcelink.json
+D:\.net\.net project\.NET\college practicals\Lab 2\Lab 2\obj\Debug\net8.0\Lab 2.dll
+D:\.net\.net project\.NET\college practicals\Lab 2\Lab 2\obj\Debug\net8.0\refint\Lab 2.dll
+D:\.net\.net project\.NET\college practicals\Lab 2\Lab 2\obj\Debug\net8.0\Lab 2.pdb
+D:\.net\.net project\.NET\college practicals\Lab 2\Lab 2\obj\Debug\net8.0\Lab 2.genruntimeconfig.cache
+D:\.net\.net project\.NET\college practicals\Lab 2\Lab 2\obj\Debug\net8.0\ref\Lab 2.dll
